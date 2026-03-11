@@ -1,5 +1,5 @@
 # 💫 About Me:
-Creative Media and Game Technologies student specializing in Unity development and Python programming. <br>Built VR games in Unity, Creating tools for game files, and developed interactive web tools. <br>Committing and designing tech to build practical and creative solutions. 
+Game Dev student specializing in Unity development and Python programming. <br>Built VR games in Unity, Creating tools for game files, and developed interactive web tools. <br>Committing and designing tech to build practical and creative solutions. 
 
 
 # 💻 Tech Stack:
